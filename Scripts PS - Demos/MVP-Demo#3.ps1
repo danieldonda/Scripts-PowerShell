@@ -2,7 +2,7 @@
 # Você como administrador deve permitir que o administrador Junior da empresa possa fazer o gerenciamento remoto de Features ou 
 # outros recursos em sua empresa.
 # Nota - Através do PowerShell
-
+#Curso de Posh
 
 # Gerenciamento Remmoto - Delegação de Administração
 Get-PSSessionConfiguration
