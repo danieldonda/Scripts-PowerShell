@@ -6,3 +6,4 @@ $soma=$computadores.count
 Write-Host Testando todos os $soma Servidores da rede.
 sleep 3
 Test-Connection $computadores
+#FIM
