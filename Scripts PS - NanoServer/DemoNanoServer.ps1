@@ -1,5 +1,5 @@
-﻿#DEMO NANO SERVER BASIC
-
+#DEMO NANO SERVER BASIC
+#Ok
 
 Import-Module E:\nanoserver\NanoServerImageGenerator.psm1 -Verbose
 New-NanoServerImage –MediaPath E:\ `
