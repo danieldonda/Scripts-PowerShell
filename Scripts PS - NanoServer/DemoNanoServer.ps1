@@ -10,7 +10,7 @@ New-NanoServerImage –MediaPath E:\ `
     -Language en-us `
     -ReverseForwarders `
     -AdministratorPassword (ConvertTo-SecureString -String ‘P@ssw0rd’ -AsPlainText -Force)
-
+#Bruno
 
 #Variaveis
 $NanoServerName = "NanoServerdemo"
